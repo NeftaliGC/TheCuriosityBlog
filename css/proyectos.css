@@ -1,0 +1,54 @@
+body {
+    background-color: #03091f;
+    color: blanchedalmond;
+}
+
+#logoHeader {
+    height: 225px;
+}
+
+.header {
+    background: #03091f;
+    margin: auto;
+    text-align: center;
+    display: block;
+}
+
+h1 {
+    margin: auto;
+    font-size: 60px;
+    color: aliceblue;
+}
+
+.nav {
+    
+    text-align: center;
+    
+}
+
+.menu, li {
+    
+    text-decoration: none;
+    list-style: none;
+    list-style-image: none;
+    padding: 10px;
+    font: bold 20px sans-serif;
+    display: inline-block;
+    
+}
+
+a {
+    text-decoration: none;
+    color: antiquewhite;
+}
+
+.imgFooter {
+
+    height: 260px;
+    width: 860px;
+
+}
+
+.footer {
+    text-align: center;
+}

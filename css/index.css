@@ -1,0 +1,97 @@
+body {
+    background-color: #03091f;
+    color: blanchedalmond;
+}
+
+#logoHeader {
+        height: 225px;
+}
+
+.header {
+    background: #03091f;
+    margin-right: 0px;
+    text-align: center;
+    display: block;
+}
+
+h1 {
+    margin: auto;
+    font-size: 60px;
+}
+
+.nav {
+    
+    text-align: center;
+    
+}
+.menu, li {
+    
+    text-decoration: none;
+    list-style: none;
+    list-style-image: none;
+    padding: 10px;
+    font: bold 20px sans-serif;
+    display: inline-block;
+    
+}
+
+p {
+    font-size: 25px;
+    font-family: sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: antiquewhite;
+}
+
+main {
+    text-align: center;
+    margin: auto;
+    background-color: #151a2e;
+
+}
+
+article {
+
+    padding: 150px;
+    font-size: 30px;
+    font-family: sans-serif;
+    padding-bottom: 50px;
+}
+
+
+
+.caja {
+    
+    background-color: #0d1533;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    display: inline-block;
+    
+}
+
+.imgSection {
+    
+    height: 430px;
+    width: 500px;
+    
+}
+
+.acercaDe, .h2Aside{
+    font-size: 30px;
+    
+}
+
+.imgFooter {
+
+    height: 260px;
+    width: 860px;
+
+}
+
+.footer {
+    text-align: center;
+}
